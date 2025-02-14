@@ -8,6 +8,7 @@ public class PasswordService {
 	
 	int i=10;
 	int j=30;
+	int k=40;
 
 	public static String encode(String txt) {
 		Encoder encoder = Base64.getEncoder();
